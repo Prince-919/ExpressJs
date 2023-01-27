@@ -1,0 +1,4 @@
+
+express application generator Terminal commond :)
+
+--> npx express-generator --view=ejs application-name 
