@@ -1,0 +1,1 @@
+alert('I am Static file load..');
